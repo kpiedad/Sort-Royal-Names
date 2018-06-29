@@ -8,7 +8,7 @@ public class SortRoyalNames
     //System.out.println(num);
     String[] names = {"Albert II","Polo IV","Alexander V","Elizabeth XXV",
         "Albert XL","Polo XLVI","William IX","Edward XXXIX",
-        "Elizabeth XIX"};
+        "Elizabeth XIX","Albert III"};
 
     String[] sortedNames = sortNames(names);
     System.out.println(Arrays.toString(sortedNames));
